@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a softwar company
 - 🤔 I’m looking for help with  exchanging programming Knowledge
 - 💬 Ask me about  myself and may connect with me
--![Profile views](https://gpvc.arturio.dev/mizan92782)
+                     ![Profile views](https://gpvc.arturio.dev/mizan92782)
 
 
-# Reach me :
+# Reach me 
 mizanmd92782@gmail.com
 
 
-# Connect with me :
+# Connect with me 
  <a href="https://www.facebook.com/profile.php?id=100028321125592" >
  <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="FACEBOOK" style="width:42px;height:42px;" >
 </a>
