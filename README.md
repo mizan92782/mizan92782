@@ -76,7 +76,7 @@ mizanmd92782@gmail.com
 
 # Other's Information
 
- ![Profile views](https://gpvc.arturio.dev/mizan92782)
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan92782)](https://github.com/anuraghazra/github-readme-stats)
 
