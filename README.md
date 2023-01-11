@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://drive.google.com/file/d/1sajVUzhW47wLloi3G6Y7HCSlm6vjLw-s/view?usp=share_link" >
- <img src="https://drive.google.com/file/d/1sajVUzhW47wLloi3G6Y7HCSlm6vjLw-s/view?usp=share_link" alt="FACEBOOK" style="width:42px;height:42px;" >
+ <img src="https://play.google.com/store/apps/details?id=com.codeForces.Helper&hl=en_US&gl=US" alt="FACEBOOK" style="width:42px;height:42px;" >
 </a>
 
