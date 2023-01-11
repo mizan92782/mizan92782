@@ -33,7 +33,7 @@ mizanmd92782@gmail.com
  <img src="https://scontent.fcgp6-1.fna.fbcdn.net/v/t1.6435-9/119169043_10158009779444023_1905187057223611079_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG7_XVXgZOwb-6sxlwxuM1jmgBbYNEf5uSaAFtg0R_m5GIp5Lo7ayW2q95iocr6uoPw2wFHQ3WF29h5B89XTd4a&_nc_ohc=eAWSG35mIOgAX8JShGo&_nc_ht=scontent.fcgp6-1.fna&oh=00_AfDONmskNoPt7Tjx3cPGAOmwfawEhVTildCP4JUNPInNVA&oe=63E59EE8" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
 </a>
  <a href="https://www.codechef.com/users/mizanur92782" >
- <img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
+ <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
 </a>
  
 
