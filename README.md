@@ -18,7 +18,7 @@
 <h4>
 <br>🔭 I’m  a student of CSE
 <br> 🌱 I’m currently learning  python and Meaching learning
-<br> 👯 I’m looking to collaborate on a softwar company
+<br> 👯 I’m looking to collaborate on a software company
 <br>🤔 I’m looking for help with exchanging programming Knowledge
 <br>💬 Ask me about myself and may connect with me
   </h4>
