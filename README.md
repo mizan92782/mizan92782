@@ -43,3 +43,18 @@ mizanmd92782@gmail.com
  <a href="https://atcoder.jp/users/Mizanur_Rahman" >
  <img src="https://img.atcoder.jp/assets/atcoder.png" alt="ATCODER" style="width:42px;height:42px;" >
 </a>
+
+
+
+
+
+
+
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/mizan92782)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mizan92782)  
+
+![Profile views](https://gpvc.arturio.dev/mizan92782)  
