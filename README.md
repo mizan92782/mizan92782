@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 # Reach me :
--mizanmd92782@gmail.com
--<a aria-label="WhatsApp" href="https://wa.me/01891671904"> <img alt="WhatsApp" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360"  style="width:42px;height:42px;"/>
+mizanmd92782@gmail.com
+<a aria-label="WhatsApp" href="https://wa.me/01891671904"> <img alt="WhatsApp" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360"  style="width:42px;height:42px;"/>
 
 
 
