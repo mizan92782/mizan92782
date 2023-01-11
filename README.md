@@ -5,11 +5,11 @@
 
 <h3 align="center">I am a student of cse and a competitve programmer</h3>
 
-<p align="center">
+<h1 align="center">
   
   ![Profile views](https://gpvc.arturio.dev/mizan92782)
 
-</p>
+</h1>
 
 Here are some ideas to get you started:
 
