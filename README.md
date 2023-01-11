@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a softwar company
 - 🤔 I’m looking for help with  exchanging programming Knowledge
 - 💬 Ask me about  myself and may connect with me
-                     ![Profile views](https://gpvc.arturio.dev/mizan92782)
-
+                    
 
 # Reach me 
 mizanmd92782@gmail.com
@@ -56,6 +55,7 @@ mizanmd92782@gmail.com
 
 
 
+ ![Profile views](https://gpvc.arturio.dev/mizan92782)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan92782)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,4 +70,4 @@ mizanmd92782@gmail.com
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mizan92782)  
 
-![Profile views](https://gpvc.arturio.dev/mizan92782)  
+ 
