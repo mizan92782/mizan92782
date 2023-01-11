@@ -1,5 +1,5 @@
- https://media3.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47aajwiclal5hqpjmmp15lsal87fgedkbe623kz2ww&rid=giphy.gif&ct=g
-<img align="center" src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
+
+<img align="center" src="https://media3.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47aajwiclal5hqpjmmp15lsal87fgedkbe623kz2ww&rid=giphy.gif&ct=g" alt="well coming" style="width:800px;height:200px;">
 <h1 align="center"> Hi Dear! I'm Mizanur Rahman 👋</h1>
 
 
