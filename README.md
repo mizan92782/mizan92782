@@ -1,4 +1,4 @@
-# Hi Dear! I'm Mizinur Rahman 👋
+# Hi Dear! I'm Mizanur Rahman 👋
 <img src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
 
 
