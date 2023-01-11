@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a softwar company
 - 🤔 I’m looking for help with  exchanging programming Knowledge
 - 💬 Ask me about  myself and may connect with me
+<p><br></p>
 ![Profile views](https://gpvc.arturio.dev/mizan92782)
 
 
