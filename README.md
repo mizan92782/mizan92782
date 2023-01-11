@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-<img align="right" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="height:200px">
+<img align="right" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="height:150px">
 
 - 🔭 I’m  a student of CSE
 - 🌱 I’m currently learning  python and Meaching learning
