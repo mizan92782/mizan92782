@@ -42,7 +42,7 @@ mizanmd92782@gmail.com
 </a>
  
  <a href="https://atcoder.jp/users/Mizanur_Rahman" >
- <img src=https://img.atcoder.jp/assets/atcoder.png" alt="ATCODER" style="width:42px;height:42px;" >
+ <img src="https://img.atcoder.jp/assets/atcoder.png" alt="ATCODER" style="width:42px;height:42px;" >
 </a>
  
 
