@@ -1,5 +1,5 @@
  Hi Dear! I'm Mizanur Rahman 👋
-<img src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
+<img align="center" src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
 <h1 align="center"> Hi Dear! I'm Mizanur Rahman 👋</h1>
 
 
