@@ -3,7 +3,7 @@
 <h1 align="center"> Hi Dear! I'm Mizanur Rahman 👋</h1>
 
 
-**mizan92782/mizan92782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h align="center">I am a student of cse and a competitve programmer</h>
 
 Here are some ideas to get you started:
 
