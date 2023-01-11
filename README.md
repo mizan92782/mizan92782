@@ -1,5 +1,6 @@
-# Hi Dear! I'm Mizanur Rahman 👋
+ Hi Dear! I'm Mizanur Rahman 👋
 <img src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
+<h align="center> Hi Dear! I'm Mizanur Rahman 👋</h>
 
 
 **mizan92782/mizan92782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
