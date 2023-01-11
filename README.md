@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m student of CSE
-- 🌱 I’m currently learning  python,Meaching learning
+- 🔭 I’m  a student of CSE
+- 🌱 I’m currently learning  python and Meaching learning
 - 👯 I’m looking to collaborate on a softwar company
-- 🤔 I’m looking for help with  exchanging programming Knowledge
-- 💬 Ask me about  myself and may connect with me
+- 🤔 I’m looking for help with exchanging programming Knowledge
+- 💬 Ask me about myself and may connect with me
                     
 
 # Reach me 
