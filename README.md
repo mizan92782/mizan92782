@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 #Reach me :
-G-mail : mizanmd92782@gmail.com
+mizanmd92782@gmail.com
 
 
 
