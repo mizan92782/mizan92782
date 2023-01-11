@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Reach me :
 mizanmd92782@gmail.com
-<a aria-label="Chat on WhatsApp" href="https://wa.me/01891671904"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a aria-label="WhatsApp" href="https://wa.me/01891671904"> <img alt="Chat on WhatsApp" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360" />
 
 
 
