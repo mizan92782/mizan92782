@@ -15,13 +15,13 @@
 
 <img align="right" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="height:150px">
 
-<h5><b>..............</b>
+<h4>
 <br>🔭 I’m  a student of CSE
 <br> 🌱 I’m currently learning  python and Meaching learning
 <br> 👯 I’m looking to collaborate on a softwar company
 <br>🤔 I’m looking for help with exchanging programming Knowledge
 <br>💬 Ask me about myself and may connect with me
-  </h5>
+  </h4>
                     
 
 # Reach me 
