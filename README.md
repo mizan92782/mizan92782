@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: mizanmd92782@gmail.com
 
-- <a href="https://www.facebook.com/profile.php?id=100028321125592"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="My facebook" style="width:42px;height:42px;"></a>
+ <a href="https://www.facebook.com/profile.php?id=100028321125592"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="My facebook" style="width:42px;height:42px;"></a>
 
