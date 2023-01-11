@@ -1,6 +1,6 @@
 # Hi Dear! I'm Mizinur Rahman 👋
 <img src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
-![Profile views](https://gpvc.arturio.dev/mizna92782)   
+!Profile views](https://gpvc.arturio.dev/mizna92782)   
 
 
 **mizan92782/mizan92782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
