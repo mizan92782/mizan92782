@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 
 
 
 #Reach me :
-G-mail :mizanmd92782@gmail.com
+G-mail : mizanmd92782@gmail.com
 
 
 
