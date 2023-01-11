@@ -1,6 +1,6 @@
 # Hi Dear! I'm Mizinur Rahman 👋
 <img src="https://media.tenor.com/pUJHssYR_JsAAAAC/welcome.gif" alt="well coming" style="width:800px;height:200px;">
-(![Profile views](https://gpvc.arturio.dev/mizan92782)  ) 
+![Profile views](https://gpvc.arturio.dev/mizan92782)
 
 
 **mizan92782/mizan92782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a softwar company
 - 🤔 I’m looking for help with  exchanging programming Knowledge
 - 💬 Ask me about  myself and may connect with me
-- 
+![Profile views](https://gpvc.arturio.dev/mizan92782)
 
 
 # Reach me :
