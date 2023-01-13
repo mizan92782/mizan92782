@@ -75,9 +75,13 @@ mizanmd92782@gmail.com
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mizan92782)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan92782)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mizan92782&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mizan92782)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mizan92782)  
-
  
