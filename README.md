@@ -1,9 +1,9 @@
 
 <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="width:1000px;height:200px;">
-<h1 align="center"> Hi Dear! I'm Mizanur Rahman 👋</h1>
+<h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
 
 
-<h3 align="center">I am a student of cse and a competitve programmer</h3>
+<h3 align="center">I am a student of CSE and a competitive programmer</h3>
 
 <h1 align="center">
   
@@ -16,11 +16,11 @@
 <img align="right" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="height:150px">
 
 <h4>
-<br>🔭 I’m  a student of CSE
-<br> 🌱 I’m currently learning  python and Meaching learning
-<br> 👯 I’m looking to collaborate on a software company
-<br>🤔 I’m looking for help with exchanging programming Knowledge
-<br>💬 Ask me about myself and may connect with me
+<br> I’m  a student of CSE
+<br> I’m currently learning  python and Meaching learning
+<br> I’m looking to collaborate on a software company
+<br> I’m looking for help with exchanging programming Knowledge
+
   </h4>
                     
 
