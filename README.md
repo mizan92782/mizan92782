@@ -24,7 +24,7 @@ mizanmd92782@gmail.com
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/mizanmd92782/" >
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2F&psig=AOvVaw0FoNhzItWQIafK0f5dTQnc&ust=1691597112830000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7grq4zYADFQAAAAAdAAAAABAE" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhtml-images%2F&psig=AOvVaw2uUeGQjSHpsdzUPWoYNNyv&ust=1691597306859000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICNw5a5zYADFQAAAAAdAAAAABAD" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
 </a>
 
 <a href="https://www.hackerrank.com/mizanmd92782" >
