@@ -5,23 +5,9 @@
 
 <h3 align="center">I am a student of CSE and a competitive programmer</h3>
 
-<h1 align="center">
-  
-  ![Profile views](https://gpvc.arturio.dev/mizan92782)
-
-</h1>
 
 
 
-<img align="right" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="height:150px">
-
-<h4>
-<br> I’m  a student of CSE
-<br> I’m currently learning  python and Meaching learning
-<br> I’m looking to collaborate on a software company
-<br> I’m looking for help with exchanging programming Knowledge
-
-  </h4>
                     
 
 # Reach me 
