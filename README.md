@@ -3,10 +3,10 @@
 <h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
 
 
-<h3 align="center">I am a student of CSE and a competitive programmer</h3>
 
 
-
+<br>
+<br>
 
                     
 
