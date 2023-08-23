@@ -13,6 +13,9 @@
 # Reach me 
 mizanmd92782@gmail.com
 
+<br>
+<br>
+
 
 # Connect with me 
  <a href="https://www.facebook.com/profile.php?id=100028321125592" >
@@ -24,7 +27,7 @@ mizanmd92782@gmail.com
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/mizanmd92782/" >
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhtml-images%2F&psig=AOvVaw2uUeGQjSHpsdzUPWoYNNyv&ust=1691597306859000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICNw5a5zYADFQAAAAAdAAAAABAD" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
 </a>
 
 <a href="https://www.hackerrank.com/mizanmd92782" >
@@ -36,7 +39,7 @@ mizanmd92782@gmail.com
 </a>
  
  <a href="https://leetcode.com/mizanmd92782/" >
- <img src="https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/305317853_616467910000160_3824851731065368025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_aid=0&_nc_eui2=AeGsQSWzryq6aZRvJJmv3nunmXM3uNp8eOmZcze42nx46RTv4Kq8uPXrUsE5BevDtqaN8WX5UVwiJ_P6G_NKy5P_&_nc_ohc=rVhamaT31n0AX9GEJNJ&_nc_ht=scontent.fcgp6-1.fna&oh=00_AfCptia0xKbustIdG2TyOgVtn3M_oJDF-2GNADatk-EPPQ&oe=63C3EC9B" alt="LEETCODER" style="width:42px;height:42px;" >
+ <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LEETCODER" style="width:42px;height:42px;" >
 </a>
  
  <a href="https://atcoder.jp/users/Mizanur_Rahman" >
@@ -46,18 +49,19 @@ mizanmd92782@gmail.com
 
 
 
+<br>
+<br>
 
 
-<p align="left">
-</p>
+<br>
+<br>
 
-<p align="left">
-</p>
 
-# Languages and Tools 
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+       
+
+       
 
 
 
