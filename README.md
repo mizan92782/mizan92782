@@ -5,22 +5,9 @@
 
 
 
-<br>
-<br>
-
-                    
-
-# Reach me 
-mizanmd92782@gmail.com
-
-<br>
-<br>
 
 
 # Connect with me 
- <a href="https://www.facebook.com/profile.php?id=100028321125592" >
- <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="FACEBOOK" style="width:42px;height:42px;" >
-</a>
 
 <a href="https://codeforces.com/profile/mizan92782" >
  <img src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR=w240-h480-rw" alt="CODEFORCES" style="width:42px;height:42px;" >
