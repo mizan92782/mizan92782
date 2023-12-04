@@ -5,32 +5,17 @@
 
 
 
-# Connect With Me:
-
-<a href="https://codeforces.com/profile/mizan92782" >
- <img src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR=w240-h480-rw" alt="CODEFORCES" style="width:42px;height:42px;" >
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/mizanmd92782/" >
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GEKSFORGEEKS" style="width:42px;height:42px;" >
-</a>
-
-<a href="https://www.hackerrank.com/mizanmd92782" >
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="ATCODER" style="width:42px;height:42px;" >
-</a>
- 
-<a href="https://www.codechef.com/users/mizanur92782" >
- <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CODECHEF" style="width:42px;height:42px;" >
-</a>
- 
- <a href="https://leetcode.com/mizanmd92782/" >
- <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LEETCODER" style="width:42px;height:42px;" >
-</a>
- 
- <a href="https://atcoder.jp/users/Mizanur_Rahman" >
- <img src="https://img.atcoder.jp/assets/atcoder.png" alt="ATCODER" style="width:42px;height:42px;" >
-</a>
-
+# Connect with me:
+<p align="left">
+<a href="https://twitter.com/@mizanur67120465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mizanur67120465" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mizanur-rahman-255879261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mizanur-rahman-255879261/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100028321125592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100028321125592" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mizanur92782" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mizanur92782" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mizanmd92782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mizanmd92782" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mizan92782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mizan92782" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mizanmd92782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mizanmd92782" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mizanmd92782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mizanmd92782" height="30" width="40" /></a>
+</p>
 
 
 
@@ -66,5 +51,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mizan92782&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
