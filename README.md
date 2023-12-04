@@ -44,10 +44,10 @@
 
 
 🔥 **My Stats :**
-<p><img align="center" src="https://github.com/mizan92782&theme=github-dark" alt="rakibul-hassan-1" /></p>
+<p><img align="center" src="https://github.com/mizan92782-1&theme=github-dark" alt="mizan92782-1" /></p>
 <img  align="right" src="https://github.com/mizan92782/blob/main/git.webp"> 
 
-<img align="left" src="https://https://github.com/mizan92782/blob/main/vscode.webp" width="150">
+<img align="left" src="https://https://github.com/mizan92782-1/blob/main/vscode.webp" width="150">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -65,9 +65,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" width="3000"-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake%20(1).svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mizan92782-1/blob/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mizan92782-1/blob/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/mizan92782-1/blob/main/github-contribution-grid-snake%20(1).svg">
 </picture>
 
 <br>
