@@ -30,19 +30,13 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mizan92782&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br clear="both">
 
-<br>
-<br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mizan92782&theme=radical&hide_border=false)<br/>
-
-<br>
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mizan92782&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mizan92782&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mizan92782&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan92782&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 <br>
 <br>
 
