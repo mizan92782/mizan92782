@@ -5,10 +5,7 @@
 
 
 
-
-
-
-<h3>Connect with me </h3>
+#Connect with me
 
 <a href="https://codeforces.com/profile/mizan92782" >
  <img src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR=w240-h480-rw" alt="CODEFORCES" style="width:42px;height:42px;" >
@@ -44,8 +41,7 @@
 
 
 
-# 💫 About Me:
-Student
+
 
 
 # 💻 Tech Stack:
