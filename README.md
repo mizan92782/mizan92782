@@ -41,13 +41,15 @@
 <br>
 
 
-![snake gif](https://github.com/mizan92782/mizan92782/blob/output/github-contribution-grid-snake.gif)
+
 
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mizan92782&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/mizan92782/mizan92782/blob/output/snak.svg)
 
 
 
