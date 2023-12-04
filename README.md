@@ -44,10 +44,10 @@
 
 
 🔥 **My Stats :**
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-hassan-1&theme=github-dark" alt="rakibul-hassan-1" /></p>
-<img  align="right" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/git.webp"> 
+<p><img align="center" src="https://github.com/mizan92782&theme=github-dark" alt="rakibul-hassan-1" /></p>
+<img  align="right" src="https://github.com/mizan92782/blob/main/git.webp"> 
 
-<img align="left" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/vscode.webp" width="150">
+<img align="left" src="https://https://github.com/mizan92782/blob/main/vscode.webp" width="150">
 <!--START_SECTION:waka-->
 
 ```txt
