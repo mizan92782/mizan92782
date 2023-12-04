@@ -41,6 +41,35 @@
 <br>
 
 
+
+
+🔥 **My Stats :**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul-hassan-1&theme=github-dark" alt="rakibul-hassan-1" /></p>
+<img  align="right" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/git.webp"> 
+
+<img align="left" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/vscode.webp" width="150">
+<!--START_SECTION:waka-->
+
+```txt
+From: 16 September 2023 - To: 23 September 2023
+
+C++        7 hrs 12 mins   ████████████████████████▓   98.34 %
+JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
+<!--END_SECTION:waka--> 
+
+
+<!--img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" width="3000"-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Rakibul-Hassan-1/Rakibul-Hassan-1/blob/main/github-contribution-grid-snake%20(1).svg">
+</picture>
+
 <br>
 <br>
 
