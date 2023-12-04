@@ -49,7 +49,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/mizan92782/mizan92782/blob/output/snak.svg)
+![snake gif](https://github.com/mizan92782/mizan92782/blob/output/snake.svg)
 
 
 
