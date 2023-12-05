@@ -4,6 +4,8 @@
 <h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
 
 ![My GIF](Animation.gif)
+![My GIF](visual-studio (1).gif)
+![My GIF](Animation.gif)
 
 
 
