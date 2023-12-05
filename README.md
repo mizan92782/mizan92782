@@ -3,16 +3,6 @@
 <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hv7gjucq5uy1syo6pkg60r05xdvptv2euu3xer5e&rid=giphy.gif&ct=g" alt="well coming" style="width:1000px;height:200px;">
 <h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
 
-![My GIF](sleep.gif)
-![My GIF](p9.gif)
-![My GIF](coffeegif)
-![My GIF](p9.gif)
-![My GIF](visual-studio.gif)
-![My GIF](p9.gif)
-![My GIF](github.gif)
-![My GIF](coffeegif)
-![My GIF](sleep.gif)
-
 
 
 
@@ -60,6 +50,21 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mizan92782&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br><br>
+
+<p align="center">
+
+<img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
+<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
+<img src="visual-studio.gif" alt="Visual Studio GIF" width="60" height="60">
+<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
+<img src="cofe29.gif" alt="Sleep GIF" width="90" height="60">
+<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
+<img src="github.gif" alt="GitHub GIF" width="60" height="60">
+
+<img src="p9.gif" alt="Sleep GIF" width="60" height="60">
+<img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
+</p>
 
 ![snake gif](https://github.com/mizan92782/mizan92782/blob/output/snake.svg)
 
