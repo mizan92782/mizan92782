@@ -6,7 +6,13 @@
 ![My GIF](sleep.gif)
 ![My GIF](p9.gif)
 ![My GIF](coffeegif)
+![My GIF](p9.gif)
 ![My GIF](visual-studio.gif)
+![My GIF](p9.gif)
+![My GIF](github.gif)
+![My GIF](coffeegif)
+![My GIF](sleep.gif)
+
 
 
 
