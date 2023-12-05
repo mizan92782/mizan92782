@@ -53,17 +53,19 @@
 <br><br>
 
 <p align="center">
-
+<img src="day.gif" alt="Sleep GIF" width="80" height="80">
 <img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
-<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
+
 <img src="visual-studio.gif" alt="Visual Studio GIF" width="60" height="60">
-<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
-<img src="cofe29.gif" alt="Sleep GIF" width="90" height="60">
-<img src="p9.gif" alt="Sleep GIF" width="50" height="50">
+
+<img src="cof124.gif" alt="Sleep GIF" width="70" height="70">
+
+
 <img src="github.gif" alt="GitHub GIF" width="60" height="60">
 
-<img src="p9.gif" alt="Sleep GIF" width="60" height="60">
 <img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
+<img src="day.gif" alt="Sleep GIF" width="80" height="80">
+
 </p>
 
 ![snake gif](https://github.com/mizan92782/mizan92782/blob/output/snake.svg)
