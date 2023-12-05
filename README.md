@@ -53,8 +53,7 @@
 <br><br>
 
 <p align="center">
-<img src="day.gif" alt="Sleep GIF" width="80" height="80">
-<img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
+
 
 <img src="visual-studio.gif" alt="Visual Studio GIF" width="60" height="60">
 
@@ -63,8 +62,7 @@
 
 <img src="github.gif" alt="GitHub GIF" width="60" height="60">
 
-<img src="sleep.gif" alt="Sleep GIF" width="60" height="60">
-<img src="day.gif" alt="Sleep GIF" width="80" height="80">
+
 
 </p>
 
