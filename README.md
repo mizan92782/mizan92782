@@ -37,17 +37,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mizan92782&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mizan92782&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan92782&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizan92782&locale=en&hide_title=false&layout=compact&card_width=1100&langs_count=10&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <br>
 <br>
 
 
-
+<div align="center">
 
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mizan92782&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br><br>
