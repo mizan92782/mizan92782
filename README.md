@@ -31,6 +31,9 @@
 <br>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mizanmd92782?theme=dark&font=Fresca&ext=heatmap)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?mizan92782=redheadphone)
+
 # GitHub Stats:
 <br clear="both">
 
