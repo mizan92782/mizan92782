@@ -2,7 +2,7 @@
 
 <img align="center" src="Screenshot from 2024-03-11 14-36-02.png" alt="well coming" style="width:1000px;height:200px;">
 <h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
-<p>I am a CSE Studen and a competitive programmer.I am also a tech enthusiastic and love to always learn something new of technology.</p>
+<p>I am a CSE Student and a competitive programmer.I am also a tech enthusiastic and love to always learn something new of technology.</p>
 
 
 
