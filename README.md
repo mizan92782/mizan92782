@@ -13,8 +13,8 @@
 <br>
 <br>
 
-<h1>🚀 Teck stack</h1>
-<h2>🧠 Programming Languages</h2>
+<h1>Teck stack</h1>
+<h4> Programming Languages</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -22,20 +22,20 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
-<h2>🌐 Web Development</h2>
+<h4>Web Development</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-<h2>📱 App & Backend Technologies</h2>
+<h4>App & Backend Technologies</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
-<h2>🗃️ Databases</h2>
+<h4>🗃Databases</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -44,7 +44,7 @@
 
 
  <div style="display: flex; align-items: center; gap: 10px;">
-   <h2>🛠️ Tools</h2>
+   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -52,13 +52,13 @@
 
 <br><br><br>
 
-<h1>🚀 Best Projects</h1>
+<h1>Best Projects</h1>
 <div style="display: flex; flex-direction: column; gap: 15px;">
 
   <!-- Project 1 -->
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
-    <strong>Money Manager App</strong>
+    <strong>Money Manager App : </strong>
     <a href="https://github.com/yourusername/money-manager" target="_blank" style="color: #007bff;">View Project</a>
   </div>
 
