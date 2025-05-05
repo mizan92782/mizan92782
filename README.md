@@ -55,6 +55,26 @@
 <h1>Best Projects</h1>
 <div style="display: flex; flex-direction: column; gap: 15px;">
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; text-align: center; flex-direction: column;">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
+        <img src="https://cdn-icons-png.flaticon.com/128/148/148781.png" alt="Plus Sign" width="16" height="16" />
+        <img src="https://img.icons8.com/ios-filled/50/26e07f/sql.png" alt="Sqflite Logo" width="32" height="32" />
+      <strong style="color: lightgreen;">    Money Management :</strong>
+      <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Project</a>
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+
+
+
 
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
@@ -63,11 +83,7 @@
   </div>
 
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
-    <strong>Money Management :  </strong>
-    <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: #007bff;">View Project</a>
-  </div>
+
 
   <!-- Project 2 -->
   <div style="display: flex; align-items: center; gap: 10px;">
