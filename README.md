@@ -55,7 +55,7 @@
 <h1>Best Projects</h1>
 <div style="display: flex; flex-direction: column; gap: 15px;">
 
-  <!-- Project 1 -->
+
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
     <strong>Programming-learning-and-QuizApp :  </strong>
@@ -63,7 +63,6 @@
   </div>
 
 
-    <!-- Project 1 -->
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
     <strong>Money Management :  </strong>
