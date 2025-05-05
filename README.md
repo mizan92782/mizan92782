@@ -58,8 +58,16 @@
   <!-- Project 1 -->
   <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
-    <strong>Money Manager App : </strong>
-    <a href="https://github.com/yourusername/money-manager" target="_blank" style="color: #007bff;">View Project</a>
+    <strong>Programming-learning-and-QuizApp :  </strong>
+    <a href="https://github.com/mizan92782/Programming-learning-and-QuizApp" target="_blank" style="color: #007bff;">View Project</a>
+  </div>
+
+
+    <!-- Project 1 -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
+    <strong>Money Management :  </strong>
+    <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: #007bff;">View Project</a>
   </div>
 
   <!-- Project 2 -->
