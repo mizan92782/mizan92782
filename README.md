@@ -89,20 +89,7 @@
 
 
 
-  <!-- Project 2 -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Logo" width="32" height="32" />
-    <strong>Realtime Chat App</strong>
-    <a href="https://github.com/yourusername/realtime-chat" target="_blank" style="color: #007bff;">View Project</a>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL Logo" width="32" height="32" />
-    <strong>Student Management System</strong>
-    <a href="https://github.com/yourusername/student-management" target="_blank" style="color: #007bff;">View Project</a>
-  </div>
-
+ 
 </div>
 
 
