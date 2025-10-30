@@ -90,8 +90,26 @@
         <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
       </td>
     </tr>
+     </tr>
+    <tr>
+      <td>Bank Management System</td>
+      <td>• Python &nbsp;  • Tkinter &nbsp;  • Mysql &nbsp;</td>
+      <td>
+   <ul style="padding-left: 20px; margin: 0; list-style-type: none;">
+    <li>Role-based Registration & Authentication (Employee & Customer)</li>
+    <li>Create Customer and Employee accounts and store information</li>
+    <li>Searching employee and customer information</li>
+    <li>Balance Withdrawal and Deposit</li>
+    <li>List of Balance Withdrawals and Deposits</li>
+    <li>Customer and Admin panels</li>
+</ul>
+      </td>
+      <td>
+        <a href="https://github.com/mizan92782/Bank-Management-System" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
+      </td>
+    </tr>
   
-    <!-- Add more projects here -->
+  
   </tbody>
 </table>
 
