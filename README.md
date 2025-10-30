@@ -64,7 +64,7 @@
   <tbody>
      <tr>
       <td>Online Quiz System</td>
-       <td>• Python &nbsp; • Django &nbsp; <br> • HTML &nbsp; • CSS&npsp;  • JavaScript &nbsp;  <br>
+       <td>• Python &nbsp; • Django &nbsp;  • HTML &nbsp; • CSS &nbsp;  • JavaScript &nbsp;  
          • PostgreSQL &nbsp;</td>
      <td>
   <ul style="padding-left: 20px; margin: 0; list-style-type: none;">
