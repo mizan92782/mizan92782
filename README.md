@@ -87,7 +87,7 @@
       <td>Flutter, Sqflite</td>
       <td>Track income & expenses, view reports, manage budgets</td>
       <td>
-        <a href="https://github.com/mizan92782/Online-Quiz-System" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
+        <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
       </td>
     </tr>
   
