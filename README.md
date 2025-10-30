@@ -90,14 +90,7 @@
         <a href="https://github.com/mizan92782/Online-Quiz-System" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
       </td>
     </tr>
-    <tr>
-      <td>Programming-learning-and-QuizApp</td>
-      <td>Flutter, Firebase</td>
-      <td>Learn programming concepts, take quizzes, track progress</td>
-      <td>
-        <a href="https://github.com/mizan92782/Programming-learning-and-QuizApp" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">View Repo</a>
-      </td>
-    </tr>
+  
     <!-- Add more projects here -->
   </tbody>
 </table>
