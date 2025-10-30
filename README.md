@@ -1,9 +1,5 @@
 
-<span style="
-  
-"></span>
-
-<img align="center" src="Screenshot from 2024-03-11 14-36-02.png" alt="well coming" style="width:1000px;height:200px;">
+<img align="center" src="Screenshot from 2024-03-11 14-36-02.png" alt="well coming" style="width:1000px;height:300px;">
 <h1 align="center"> Hi! I'm Mizanur Rahman 👋</h1>
 <p>I am a CSE Student and a competitive programmer.I am also a tech enthusiastic and love to always learn something new of technology.</p>
 
@@ -16,46 +12,40 @@
 <br>
 <br>
 
-<h1>Teck stack</h1>
-<h4>
-  <span style="
-    display:inline-block;
-    width:10px;
-    height:10px;
-    background-color:black;
-    border-radius:50%;
-    margin-right:8px;
-  "></span>
-  Programming Languages
-</h4>
 
+<h1>💡 Tech Stack</h1>
 
-<h4>Web Development</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; text-align: left; font-family: Arial, sans-serif; margin: auto;">
+  <thead style="background-color: #007bff; color: white;">
+    <tr>
+      <th>Skill Category</th>
+      <th>Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻 Programming Languages </td>
+       <td>• C &nbsp; • C++ &nbsp; • Java &nbsp; • Python&npsp;  • JavaScript &nbsp;  • Dart &nbsp;</td>
+    </tr>
+    <tr>
+      <td>🌐 Web Development </td>
+       <td>• HTML &nbsp; • CSS &nbsp; </td>
+    </tr>
+    <tr>
+      <td>📱 Mobile / Backend </td>
+       <td>• Flutter &nbsp; • Firebase &nbsp;  • Django &nbsp;  • Rest Framework &nbsp;  </td>
+    </tr>
+    <tr>
+      <td> 🗄️ Databases </td>
+      <td>• MySQL &nbsp; • SQLite &nbsp;  • PostgreSQL &nbsp;  </td>
+    </tr>
+    <tr>
+      <td>⚙️ Tools / Deployment </td>
+       <td>• Git &nbsp; • GitHub &nbsp;  • Docker &nbsp; • Postman &nbsp; • VS Code &nbsp;• Andorid Studio &nbsp; </td>
+    </tr>
+  </tbody>
+</table>
 
-<h4>App & Backend Technologies</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-</div>
-
-<h4>🗃Databases</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-
-
- <div style="display: flex; align-items: center; gap: 10px;">
-   <h4>Tools</h4>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
 
 
 <br><br><br>
