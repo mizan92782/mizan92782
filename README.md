@@ -1,10 +1,6 @@
 
 <span style="
-  display:inline-block;
-  width:10px;
-  height:10px;
-  background-color:black;
-  border-radius:50%;
+  
 "></span>
 
 <img align="center" src="Screenshot from 2024-03-11 14-36-02.png" alt="well coming" style="width:1000px;height:200px;">
@@ -21,8 +17,18 @@
 <br>
 
 <h1>Teck stack</h1>
-<h4> Programming Languages</h4>
-<span style="font-weight: bold;">&#x26AB;</span>
+<h4>
+  <span style="
+    display:inline-block;
+    width:10px;
+    height:10px;
+    background-color:black;
+    border-radius:50%;
+    margin-right:8px;
+  "></span>
+  Programming Languages
+</h4>
+
 
 <h4>Web Development</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
