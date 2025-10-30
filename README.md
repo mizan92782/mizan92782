@@ -50,35 +50,62 @@
 
 <br><br><br>
 
-<h1>Best Projects</h1>
-<div style="display: flex; flex-direction: column; gap: 15px;">
+<h1>💻 Projects</h1>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; text-align: center; flex-direction: column;">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
-        <img src="https://cdn-icons-png.flaticon.com/128/148/148781.png" alt="Plus Sign" width="16" height="16" />
-        <img src="https://img.icons8.com/ios-filled/50/26e07f/sql.png" alt="Sqflite Logo" width="32" height="32" />
-      <strong style="color: lightgreen;">    Money Management :</strong>
-      <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Project</a>
-    </div>
-    
-</div>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif; margin: auto;">
+  <thead style="background-color: #007bff; color: white;">
+    <tr>
+      <th>Project Name</th>
+      <th>Technologies</th>
+      <th>Features</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>Online Quiz System</td>
+       <td>• Python &nbsp; • Django &nbsp; <br> • HTML &nbsp; • CSS&npsp;  • JavaScript &nbsp;  <br>
+         • PostgreSQL &nbsp;</td>
+     <td>
+  <ul style="padding-left: 20px; margin: 0; list-style-type: none;">
+    <li> Role (Student & Teacher) Based Registration & Authentication</li>
+    <li> Create and assign quizzes on time and Quiz duration for Batches</li>
+    <li> Start quizzes on time</li>
+    <li> Student can attend quiz on time in their Quiz</li>
+    <li>Automatically submit quiz after time is finished</li>
+    <li> Student can see previous, current, and upcoming quizzes</li>
+    <li> Control result publishing by teacher</li>
+    <li> Student can see their result</li>
+  </ul>
+</td>
+      <td>
+        <a href="https://github.com/mizan92782/FLUTTER-LEARNING./tree/main/Project/my_money" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View-Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Money Management</td>
+      <td>Flutter, Sqflite</td>
+      <td>Track income & expenses, view reports, manage budgets</td>
+      <td>
+        <a href="https://github.com/mizan92782/Online-Quiz-System" target="_blank" style="color: lightgreen; text-decoration: none; font-weight: bold;">View Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Programming-learning-and-QuizApp</td>
+      <td>Flutter, Firebase</td>
+      <td>Learn programming concepts, take quizzes, track progress</td>
+      <td>
+        <a href="https://github.com/mizan92782/Programming-learning-and-QuizApp" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">View Repo</a>
+      </td>
+    </tr>
+    <!-- Add more projects here -->
+  </tbody>
+</table>
 
 
 
 
 
-
-
-
-
-
-
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter Logo" width="32" height="32" />
-    <strong>Programming-learning-and-QuizApp :  </strong>
-    <a href="https://github.com/mizan92782/Programming-learning-and-QuizApp" target="_blank" style="color: #007bff;">View Project</a>
-  </div>
 
 
 
