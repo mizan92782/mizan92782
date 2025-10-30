@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td>💻 Programming Languages </td>
-       <td>• C &nbsp; • C++ &nbsp; • Java &nbsp; • Python&npsp;  • JavaScript &nbsp;  • Dart &nbsp;</td>
+       <td>• C &nbsp; • C++ &nbsp; • Java &nbsp; • Python&nbsp;  • JavaScript &nbsp;  • Dart &nbsp;</td>
     </tr>
     <tr>
       <td>🌐 Web Development </td>
