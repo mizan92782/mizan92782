@@ -1,8 +1,9 @@
 
 <img align="center" src="Screenshot from 2024-03-11 14-36-02.png" alt="well coming" style="width:1000px;height:300px;">
-<h1 align="center"> Hi! I'm Mizanur Rahman </h1>
-<p>I’m Md. Mizanur Rahman, a Computer Science & Engineering graduate who loves solving problems and creating meaningful projects. I enjoy learning new things, improving my skills, and working on ideas that make a real impact.
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=3000&color=11F83C&width=435&lines=Hi!+I'm+Mizanur+Rahaman" alt="Typing SVG" /></a>
+<p>I’m Md. Mizanur Rahman, a Computer Science & Engineering graduate who loves solving problems and creating meaningful projects. I enjoy learning new things, improving my skills, and working on ideas that make a real impact.
 </p>
 
 
@@ -15,7 +16,8 @@
 <br>
 
 
-<h1>💡 Tech Stack</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=3000&color=11F83C&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; text-align: left; font-family: Arial, sans-serif; margin: auto;">
   <thead style="background-color: #007bff; color: white;">
@@ -52,7 +54,8 @@
 
 <br><br><br>
 
-<h1>💻 Projects</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=3000&color=11F83C&width=435&lines=Projects" alt="Typing SVG" /></a>
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif; margin: auto;">
   <thead style="background-color: #007bff; color: white;">
