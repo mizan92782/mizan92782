@@ -6,14 +6,25 @@
 <p>I’m Md. Mizanur Rahman, a Computer Science & Engineering graduate who loves solving problems and creating meaningful projects. I enjoy learning new things, improving my skills, and working on ideas that make a real impact.
 </p>
 
+<br>
+<br>
 
 
 
-
+[![Linkding](https://img.shields.io/badge/Linkding-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://www.linkedin.com/in/mizanur-rahman-255879261/)
+[![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&color=FFFFFF)](https://www.facebook.com/mizanur.rahman.shobuz.2025/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000&color=FFFFFF)](https://leetcode.com/u/mizan92782/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=000000&color=FFFFFF)](https://www.codechef.com/users/mizan92782)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://yourwebsite.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=000000&color=FFFFFF)](https://codeforces.com/profile/mizan92782)
+[![HackerRank](https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=000000&color=FFFFFF)](https://www.hackerrank.com/profile/mizan92728)
 
 
 <br>
 <br>
+
+
+
 
 
 
@@ -49,6 +60,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
