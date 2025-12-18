@@ -15,7 +15,7 @@
 
 
 
-[![Linkding](https://img.shields.io/badge/Linkding-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://www.linkedin.com/in/mizanur-rahman-255879261/)
+[![Linkding](https://img.shields.io/badge/Linkding-FFFFFF?style=for-the-badge&logo=Linkding&logoColor=000000&color=FFFFFF)](https://www.linkedin.com/in/mizanur-rahman-255879261/)
 [![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&color=FFFFFF)](https://www.facebook.com/mizanur.rahman.shobuz.2025/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000&color=FFFFFF)](https://leetcode.com/u/mizan92782/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FFFFFF?style=for-the-badge&logo=GeeksForGeeks&logoColor=000000&color=FFFFFF)](https://www.geeksforgeeks.org/profile/mizanmd92782?tab=activity)
