@@ -16,7 +16,6 @@
 
 
 [![Linkding](https://img.shields.io/badge/Linkding-FFFFFF?style=for-the-badge&logo=Linkding&logoColor=000000&color=FFFFFF)](https://www.linkedin.com/in/mizanur-rahman-255879261/)
-[![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&color=FFFFFF)](https://www.facebook.com/mizanur.rahman.shobuz.2025/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000&color=FFFFFF)](https://leetcode.com/u/mizan92782/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FFFFFF?style=for-the-badge&logo=GeeksForGeeks&logoColor=000000&color=FFFFFF)](https://www.geeksforgeeks.org/profile/mizanmd92782?tab=activity)
 [![CodeChef](https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=000000&color=FFFFFF)](https://www.codechef.com/users/mizan92782)
@@ -24,6 +23,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=000000&color=FFFFFF)](https://www.hackerrank.com/profile/mizan92728)
 [![NeetCode](https://img.shields.io/badge/NeetCode-FFFFFF?style=for-the-badge&logo=NeetCode&logoColor=000000&color=FFFFFF)](https://neetcode.io/practice?tab=neetcode150&subpage=practice)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://mizan92782.github.io/my-portfolio/)
+[![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&color=FFFFFF)](https://www.facebook.com/mizanur.rahman.shobuz.2025/)
 <br>
 <br>
 
