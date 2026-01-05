@@ -52,11 +52,11 @@
     </tr>
     <tr>
       <td>📱 Mobile / Backend </td>
-       <td>• Flutter &nbsp; • Firebase &nbsp;  • Django &nbsp;  • Rest Framework &nbsp;  </td>
+       <td>• Flutter &nbsp; • Firebase &nbsp;  • Django &nbsp;  • Rest Framework &nbsp;  • FastAPI &nbsp;  </td>
     </tr>
     <tr>
       <td> 🗄️ Databases </td>
-      <td>• MySQL &nbsp; • SQLite &nbsp;  • PostgreSQL &nbsp;  </td>
+      <td>• MySQL &nbsp; • SQLite &nbsp;  • PostgreSQL &nbsp;  • Redis &nbsp;   </td>
     </tr>
     <tr>
       <td>⚙️ Tools / Deployment </td>
