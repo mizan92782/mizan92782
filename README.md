@@ -22,7 +22,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=000000&color=FFFFFF)](https://codeforces.com/profile/mizan92782)
 [![HackerRank](https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=000000&color=FFFFFF)](https://www.hackerrank.com/profile/mizan92728)
 [![NeetCode](https://img.shields.io/badge/NeetCode-FFFFFF?style=for-the-badge&logo=NeetCode&logoColor=000000&color=FFFFFF)](https://neetcode.io/practice?tab=neetcode150&subpage=practice)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://mizan92782.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=000000&color=FFFFFF)](https://mizan92782.github.io/Portfolio/)
 [![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&color=FFFFFF)](https://www.facebook.com/mizanur.rahman.shobuz.2025/)
 <br>
 <br>
