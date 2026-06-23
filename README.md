@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=3000&color=11F83C&width=435&lines=Hi!+I'm+Mizanur+Rahaman" alt="Typing SVG" /></a>
 </div>
 
-#### I’m Md. Mizanur Rahman, a Computer Science & Engineering graduate who loves solving problems and creating meaningful projects. I enjoy learning new things, improving my skills, and working on ideas that make a real impact.
+#### I’m Md. Mizanur Rahman,Backend Developer focused on building scalable APIs, efficient database systems, and reliable backend architectures. Passionate about problem-solving, clean cod
 
 
 
